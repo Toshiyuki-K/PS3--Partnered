@@ -1,5 +1,5 @@
 ﻿Partner1: Kohei Inagaki, Kohei1208
-Partner2: Toshiyuki Kindaichi, KindaichiK
+Partner2: Toshiyuki Kindaichi, Toshiyuki-K
 
 9 1 4 a 9 6 3   -   K o h e i   I n a g a k i ,   7   m i n u t e s   a g o   :   A d d e d   p a r t n e r   i n f o r m a t i o n   t o   c o m m i t _ h i s t o r y . t x t 
  
